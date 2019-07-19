@@ -1,0 +1,7 @@
+  .leaflet-container {
+    height: 550px;
+  } 
+  .table th, td { 
+    border: 1px solid slategrey; padding: 4px
+  }
+
