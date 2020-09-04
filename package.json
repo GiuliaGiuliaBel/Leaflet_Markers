@@ -10,7 +10,7 @@
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "leaflet": "^1.5.1",
-    "mongodb": "^2.2.6",
+    "mongodb": "^3.6.1",
     "nodemon": "^1.19.1",
     "react-dom": "^16.8.6",
     "react-leaflet": "^1.9.1",
